@@ -80,6 +80,10 @@ font-weight: 490;
 .right-cont img{
     max-width: 40px;
 }
+.signin{
+    color:white;
+    margin-right: 15px;
+}
 
 /* movie section css */
 
