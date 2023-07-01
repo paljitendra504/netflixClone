@@ -80,9 +80,18 @@ font-weight: 490;
 .right-cont img{
     max-width: 40px;
 }
-.signin{
-    color:white;
-    margin-right: 15px;
+.login-btn{
+
+    outline: none !important;
+    
+    background: transparent;
+    color: #fff;
+    float: right;
+}
+.login-btn a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
 }
 
 /* movie section css */
